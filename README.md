@@ -8,7 +8,7 @@ Silicon Valley Flight Reservation System is an app that I desinged using Java an
 * One can change the flight that they wish to purchase
 
 ## Author
-Hussein Guevara: 
+Hussein Guevara: https://github.com/HusseinGuevara
 
 ## Demo
-https://github.com/HusseinGuevara/Java-Mock-Flight-Reservation-System/blob/main/java.gif
+(https://github.com/HusseinGuevara/Java-Mock-Flight-Reservation-System/blob/main/java.gif)
