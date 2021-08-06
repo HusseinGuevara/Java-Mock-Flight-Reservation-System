@@ -11,4 +11,4 @@ Silicon Valley Flight Reservation System is an app that I desinged using Java an
 Hussein Guevara: https://github.com/HusseinGuevara
 
 ## Demo
-<img src="https://github.com/HusseinGuevara/Java-Mock-Flight-Reservation-System/blob/main/java.gif" alt="Demo" />
+<img src="https://github.com/HusseinGuevara/Java-Mock-Flight-Reservation-System/blob/main/java.gif" width="700" alt="Demo" />
